@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/iw4p/Reinforcement-Learning"><img src="https://github.com/iw4p/Reinforcement-Learning/assets/89135083/7102344f-ad00-4348-bda5-ca35f42c3c95" alt="Output" width="200"></a>
+  <a href="https://github.com/iw4p/Reinforcement-Learning"><img src="https://github.com/iw4p/Reinforcement-Learning/assets/89135083/7102344f-ad00-4348-bda5-ca35f42c3c95" alt="Output" width="400"></a>
   <br>
   Reinforcement Leaning Project | Taxi Driver
   <br>
